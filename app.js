@@ -13,3 +13,9 @@ switch(accion){
         console.log("No entiendo qué quieres hacer");
         break;
 }
+
+// para actualizar el git
+// git status -
+// git add .
+// git commit -m "mensaje"
+// git push
